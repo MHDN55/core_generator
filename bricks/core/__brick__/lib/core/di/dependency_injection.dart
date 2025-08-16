@@ -5,7 +5,7 @@ import 'package:injectable/injectable.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../network/dio_factory.dart';
-import 'dependency_injection.config.dart';
+import '../../../../../../core/__brick__/lib/core/di/dependency_injection.config.dart';
 
 final GetIt getIt = GetIt.instance;
 
